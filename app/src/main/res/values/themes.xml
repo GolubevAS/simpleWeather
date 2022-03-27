@@ -1,0 +1,52 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Theme.SimpleWeather" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <!-- Secondary brand color. -->
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+
+        <!-- Status bar color. -->
+        <item name="android:windowLightStatusBar" tools:targetApi="n">true</item>
+        <item name="android:statusBarColor" tools:targetApi="l">@color/statusBarColor</item>
+        <!-- Customize your theme here. -->
+    </style>
+
+    <style name="MainTextViewStyle">
+        <item name="fontFamily">casual</item>
+
+    </style>
+
+    <style name="DividerStyle">
+        <item name="android:background">@color/dividerColor</item>
+        <item name="android:layout_width">1dp</item>
+        <item name="android:layout_height">1dp</item>
+
+    </style>
+
+    <style name="AddWeatherInformationStyle" parent="MainTextViewStyle">
+        <item name="android:textSize">14sp</item>
+        <item name="android:includeFontPadding">false</item>
+    </style>
+
+    <style name="AddWeatherInformationItemStyle" parent="MainTextViewStyle">
+        <item name="android:layout_width">20dp</item>
+        <item name="android:layout_height">20dp</item>
+    </style>
+
+    <style name="IconButton" parent="Widget.MaterialComponents.Button.Icon">
+        <item name="iconTint">?attr/colorControlNormal</item>
+        <item name="android:insetBottom">0dp</item>
+        <item name="android:insetTop">0dp</item>
+        <item name="android:insetLeft">0dp</item>
+        <item name="android:insetRight">0dp</item>
+        <item name="iconPadding">0dp</item>
+        <item name="iconGravity">textStart</item>
+        <item name="iconSize">24dp</item>
+    </style>
+
+</resources>

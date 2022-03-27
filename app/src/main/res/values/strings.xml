@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">simpleWeather</string>
+    <string name="min">минимум</string>
+    <string name="average">средняя</string>
+    <string name="max">максимум</string>
+</resources>

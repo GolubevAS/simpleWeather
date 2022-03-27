@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/WorkComp/Documents/2. Documents Golubev Aleksey/1. Android Studio/Repo/simpleWeather/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2535" />
+        <entry key="..\:/Users/WorkComp/Documents/2. Documents Golubev Aleksey/1. Android Studio/Repo/simpleWeather/app/src/main/res/drawable/bc_main_bottom_sheets.xml" value="0.2605" />
+        <entry key="..\:/Users/WorkComp/Documents/2. Documents Golubev Aleksey/1. Android Studio/Repo/simpleWeather/app/src/main/res/drawable/bg_bottom_sheet_line_swype.xml" value="0.2605" />
+        <entry key="..\:/Users/WorkComp/Documents/2. Documents Golubev Aleksey/1. Android Studio/Repo/simpleWeather/app/src/main/res/drawable/bg_main_bottom_sheets.xml" value="0.106" />
+        <entry key="..\:/Users/WorkComp/Documents/2. Documents Golubev Aleksey/1. Android Studio/Repo/simpleWeather/app/src/main/res/drawable/gradient_background.xml" value="0.2605" />
+        <entry key="..\:/Users/WorkComp/Documents/2. Documents Golubev Aleksey/1. Android Studio/Repo/simpleWeather/app/src/main/res/drawable/gradient_bottom.xml" value="0.2925" />
+        <entry key="..\:/Users/WorkComp/Documents/2. Documents Golubev Aleksey/1. Android Studio/Repo/simpleWeather/app/src/main/res/drawable/gradient_for_bottom_sheet.xml" value="0.2605" />
+        <entry key="..\:/Users/WorkComp/Documents/2. Documents Golubev Aleksey/1. Android Studio/Repo/simpleWeather/app/src/main/res/drawable/ic_drop.xml" value="0.2535" />
+        <entry key="..\:/Users/WorkComp/Documents/2. Documents Golubev Aleksey/1. Android Studio/Repo/simpleWeather/app/src/main/res/drawable/ic_flag_24.xml" value="0.2535" />
+        <entry key="..\:/Users/WorkComp/Documents/2. Documents Golubev Aleksey/1. Android Studio/Repo/simpleWeather/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2535" />
+        <entry key="..\:/Users/WorkComp/Documents/2. Documents Golubev Aleksey/1. Android Studio/Repo/simpleWeather/app/src/main/res/drawable/ic_menu_24.xml" value="0.2535" />
+        <entry key="..\:/Users/WorkComp/Documents/2. Documents Golubev Aleksey/1. Android Studio/Repo/simpleWeather/app/src/main/res/drawable/ic_outline_settings_24.xml" value="0.2535" />
+        <entry key="..\:/Users/WorkComp/Documents/2. Documents Golubev Aleksey/1. Android Studio/Repo/simpleWeather/app/src/main/res/drawable/ic_settings_24.xml" value="0.2535" />
+        <entry key="..\:/Users/WorkComp/Documents/2. Documents Golubev Aleksey/1. Android Studio/Repo/simpleWeather/app/src/main/res/drawable/ic_sun.xml" value="0.2605" />
+        <entry key="..\:/Users/WorkComp/Documents/2. Documents Golubev Aleksey/1. Android Studio/Repo/simpleWeather/app/src/main/res/drawable/ic_therm.xml" value="0.2535" />
+        <entry key="..\:/Users/WorkComp/Documents/2. Documents Golubev Aleksey/1. Android Studio/Repo/simpleWeather/app/src/main/res/layout/activity_initial.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/WorkComp/Documents/2. Documents Golubev Aleksey/1. Android Studio/Repo/simpleWeather/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/WorkComp/Documents/2. Documents Golubev Aleksey/1. Android Studio/Repo/simpleWeather/app/src/main/res/layout/item_main_daily.xml" value="0.5091103965702036" />
+        <entry key="..\:/Users/WorkComp/Documents/2. Documents Golubev Aleksey/1. Android Studio/Repo/simpleWeather/app/src/main/res/layout/item_main_hourly.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
